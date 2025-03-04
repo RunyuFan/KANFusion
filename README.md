@@ -30,5 +30,5 @@ If it is helpful for you, please cite the following references.
   number={},
   pages={1-16},
   doi={10.1109/TGRS.2022.3204345}
-  }
+}
 ```
