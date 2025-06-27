@@ -21,14 +21,13 @@ If it is helpful for you, please cite the following references.
 ```
 
 ```
-@ARTICLE{RunyuFan-UisNet,
-  author={Fan, Runyu and Li, Fengpeng and Han, Wei and Yan, Jining and Li, Jun and Wang, Lizhe},
-  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
-  title={Fine-Scale Urban Informal Settlements Mapping by Fusing Remote Sensing Images and Building Data via a Transformer-Based Multimodal Fusion Network}, 
-  year={2022},
-  volume={60},
-  number={},
-  pages={1-16},
-  doi={10.1109/TGRS.2022.3204345}
-}
+@ARTICLE{RunyuFanSemiUIS,
+author={Fan, Runyu and Niu, Hongyang and Xu, Zijian and Chen, Jiajun and Feng, Ruyi and Wang, Lizhe},
+journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+title={Refined Urban Informal Settlements Mapping at Agglomeration-Scale with the Guidance of Background-knowledge from Easy-accessed Crowdsourced Geospatial Data}, 
+year={2025},
+volume={},
+number={},
+pages={1-1},
+doi={10.1109/TGRS.2025.3527564}}
 ```
