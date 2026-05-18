@@ -9,7 +9,7 @@ from torchvision import transforms
 from dataloader_UIS import Mydataset
 import argparse
 
-from models.model_fuse_KAN import MMFKANMixerUV,MMFKANMixerUV_resnet
+from models.model_fuse_KAN import MMFKANMixerUV
 import torchvision.models as models
 
 # Device configuration
